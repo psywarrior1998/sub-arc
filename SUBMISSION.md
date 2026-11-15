@@ -53,7 +53,8 @@ Inspired by François Chollet's Abstraction and Reasoning Corpus (ARC Prize)—a
 ### 6. Official Submission Links
 * **GitHub Repository:** `https://github.com/psywarrior1998/sub-arc`
 * **App Listing Link:** `https://developers.reddit.com/apps/sub-arc`
-* **Test Subreddit:** `https://www.reddit.com/r/subtext_game_2026`
+* **Test Subreddit:** `https://www.reddit.com/r/subarc_game_2026`
+* **Demo Post Link:** `https://www.reddit.com/r/subarc_game_2026/comments/1xwxuvn/subarc_daily_1_20261115_symmetry_mirror_visual/`
 
 ---
 
