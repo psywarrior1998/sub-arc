@@ -14,7 +14,7 @@
 
 **A daily 60-second visual pattern deduction game where Redditors deduce geometric transformation rules and discover real-time community consensus.**
 
-[🎮 Play Live on Reddit](https://www.reddit.com/r/subarc_game_2026/comments/1xwxuvn/subarc_daily_1_20261115_symmetry_mirror_visual/) • [🏆 Devpost Submission](https://devpost.com) • [🛠️ Devvit App Dashboard](https://developers.reddit.com/apps/sub-arc)
+[🎮 Play Live on Reddit](https://www.reddit.com/r/subarc_game_2026/comments/1xwyao5/subarc_daily_3_20261115_chromatic_polarizer/) • [🏆 Devpost Submission](https://devpost.com) • [🛠️ Devvit App Dashboard](https://developers.reddit.com/apps/subarc-game)
 
 </div>
 

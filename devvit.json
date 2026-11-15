@@ -1,6 +1,6 @@
 {
   "$schema": "https://developers.reddit.com/schema/config-file.v1.json",
-  "name": "sub-arc",
+  "name": "subarc-game",
   "post": {
     "dir": "dist/client",
     "entrypoints": {
@@ -24,6 +24,10 @@
       ]
     }
   },
+  "triggers": {
+    "onAppInstall": "/internal/triggers/on-install",
+    "onAppUpgrade": "/internal/triggers/on-install"
+  },
   "menu": {
     "items": [
       {
@@ -42,5 +46,8 @@
         "cron": "0 0 * * *"
       }
     }
+  },
+  "dev": {
+    "subreddit": "subarc_game_dev"
   }
 }

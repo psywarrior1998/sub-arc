@@ -1,5 +1,5 @@
 {
-  "name": "sub-arc",
+  "name": "subarc-game",
   "version": "0.0.1",
   "description": "Daily 60-second abstract visual reasoning and community consensus puzzle for Reddit Game of the Day Hackathon 2026",
   "type": "module",
